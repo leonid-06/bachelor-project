@@ -1,0 +1,2 @@
+rootProject.name = 'bachelor-project'
+include 'worker-bot', 'hosting-bot', 'common-lib'
